@@ -7,10 +7,10 @@
     ### 2550 ###
 #print(a)
 
-for i in range(1001):
-	cube_i = i*i*i 
-	if (i%6) == 2 and (cube_i%5) == 3:
-		print(i)
+#for i in range(1001):
+#	cube_i = i*i*i 
+#	if (i%6) == 2 and (cube_i%5) == 3:
+#		print(i)
 		### 992 :) ###
 
 
